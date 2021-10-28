@@ -52,14 +52,9 @@ p {
     font-size: 16px;
 }
 
-.hero {
-    display: block;
-    height: 800px;
+.hero-img {
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .float-left {
